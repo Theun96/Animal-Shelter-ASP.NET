@@ -5,6 +5,18 @@
     <div class="jumbotron">
         <h1>Animal Shelter</h1>
         <p class="lead">Dieren zijn zeg maar soort van ons dingetje!</p>
+        <p class="lead">Welkom bij Dierenopvangcentrum De Blije Bij! <br />
+                        De Blije Bij verzorgt jaarlijks de opvang en (her)plaatsing van ongeveer 700 honden, 
+                        1500 katten en 250 overige huisdieren voor de regio Zuid-Oost Brabant. 
+                        Bovendien vangt het centrum jaarlijks 1300 dieren uit het wild die in nood zijn (tijdelijk) op. 
+                        Het dierenopvangcentrum verzorgt ook de opvang van jonge en zieke dieren. 
+                        Jaarlijks worden er meer dan 800 van deze dieren opgenomen in gastgezinnen en geplaatst in een nieuw thuis. 
+                        Dierenopvangcentrum De Blije Bij is een door de Dierenbescherming erkend asiel. 
+                        Vanuit de locatie aan de blije bijweg 51 in Blijdorp opereert ook de meldkamer dierenhulp en de dierenambulance.
+                        Bij Dierenopvangcentrum De Blije Bij werken mensen met een groot hart voor dieren. 
+                        Naast gekwalificeerde beroepskrachten zijn er veel vrijwilligers en stagiaires actief. 
+                        Samen stellen zij de dieren centraal in het dierenopvangcentrum. 
+                        De kwalitatief hoge dierverzorging en de bemiddeling van dieren wordt op een zakelijke en ondernemende manier uitgevoerd. </p>
         <%--<p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>--%>
     </div>
 
