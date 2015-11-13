@@ -3,17 +3,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{786EA50B-6A19-4A33-822B-EBBB85F07E61}</ProjectGuid>
+    <ProjectGuid>{A0DA0E2C-1DAB-4EF0-93D4-04C350DA6B0B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Animal_Shelter_ASP.NET.Tests</RootNamespace>
     <AssemblyName>Animal Shelter ASP.NET.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <IsCodedUITest>False</IsCodedUITest>
     <TestProjectType>UnitTest</TestProjectType>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -54,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Animal Shelter ASP.NET\Animal Shelter ASP.NET.csproj">
-      <Project>{EA73F10C-06AA-4D9C-91A8-F5350B403729}</Project>
+      <Project>{912609EE-2D4B-4EC8-A0D5-C14EC5EDF889}</Project>
       <Name>Animal Shelter ASP.NET</Name>
     </ProjectReference>
   </ItemGroup>
