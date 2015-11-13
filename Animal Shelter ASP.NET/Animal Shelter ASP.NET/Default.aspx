@@ -3,9 +3,12 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>De Blije Bij</h1>
+        <%--de Blije bij picture--%>
+        <p class="lead">Omdat dieren zeg maar soort van ons dingetje zijn!</p>
+        <p class="lead">Stukje tekst wat inspirerend zou moeten zijn voor deze k dieren :)</p>
+
+        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Leer Meer &raquo;</a></p>
     </div>
 
     <div class="row">
